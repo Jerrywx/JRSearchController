@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:JRSearchController/JRSearchController.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:JRSearchController-iOS/JRSearchController-iOS.xcodeproj">
+   </FileRef>
+</Workspace>
